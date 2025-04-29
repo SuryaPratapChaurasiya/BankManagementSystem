@@ -1,4 +1,4 @@
-# Bank Management System (Console-Based in Java)
+# Bank Management System 
 
 ## Description
 A simple console-based banking system using Core Java and File I/O. Users can create accounts, deposit, withdraw, and check balance.
