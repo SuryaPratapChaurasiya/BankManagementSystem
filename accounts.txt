@@ -1,3 +1,1 @@
-123,Surya,3000.0
-123,surya,0.0
-123,Surya Pratap,0.0
+
