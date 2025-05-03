@@ -14,4 +14,4 @@ A simple console-based banking system using **Core Java** and **File I/O**. User
 1. **Clone the repository** or download the project files.
 2. **Compile the code**:
    ```bash
-   javac BankAccount.java BankSystem.java
+   javac BankSystem.java BankSystem.java
